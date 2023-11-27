@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![KanonMemphis's github stats](https://github-readme-stats.vercel.app/api?username=KanonMemphis&theme=vue&show_icons=true)
+![The Loki's github stats](https://github-readme-stats.vercel.app/api?username=the-loki&theme=vue&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanonMemphis&layout=compact&theme=vue)](https://github.com/flamywhale/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-loki&layout=compact&theme=vue)](https://github.com/flamywhale/github-readme-stats)
 
 
 <!--
